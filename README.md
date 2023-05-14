@@ -1,4 +1,4 @@
-### This repository contains audio files used in the experiments conducted as a part of my work (Dyatlov, 2023)
+### This repository contains scripts and audio files used in the experiments conducted as a part of my work (Dyatlov, 2023)
 
 ### Contents:
 1. ljspeech_200000 - files made by a pre-trained LJSpeech model
