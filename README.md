@@ -18,3 +18,4 @@
 15. **Training.ipynb** - code for training and inference
 16. **Wives_and_Daughters_22050.ipynb** and **Wives_and_Daughters_24000.ipynb** - code for training on the resampled "Wives and Daughters" dataset
 17. **WER_test.ipynb** - code for conducting the WER tests
+18. **MCD_test.ipynb** - code for conducting the MCD tests
