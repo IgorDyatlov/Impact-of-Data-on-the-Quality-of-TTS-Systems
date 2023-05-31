@@ -14,3 +14,7 @@
 11. **wives_210000_22050hz** - files made by a model fine-tuned on the M-AILABS ("Wives and Daughters") dataset with resampled files (sample rate - 22050 Hz)
 12. **wives_210000_24000hz** - files made by a model fine-tuned on the M-AILABS ("Wives and Daughters") dataset with resampled files (sample rate - 24000 Hz)
 13. **wives_210000_new** - files made by a model fine-tuned on the M-AILABS ("Wives and Daughters") dataset with changed hyperparameters
+14. **Tensorboard.ipynb** - code that allowed me to see the progress of a fine-tuned model
+15. **Training.ipynb** - code for training and inference
+16. **Wives_and_Daughters_22050.ipynb** and **Wives_and_Daughters_24000.ipynb** - code for training on the resampled "Wives and Daughters" dataset
+17. **WER_test.ipynb** - code for conducting the WER tests
